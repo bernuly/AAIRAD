@@ -24,10 +24,10 @@ github_username:  "" # jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 
 # not able to make this work locally:
-#remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 #remote_theme: pages-themes/tactile
 
 plugins:
