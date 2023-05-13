@@ -3,6 +3,7 @@ layout: default
 title: Agenda
 ---
 
+# Agenda of the Day
 
 | Time   | Agenda Item                                                              |
 |--------|--------------------------------------------------------------------------|
