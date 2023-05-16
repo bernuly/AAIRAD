@@ -26,17 +26,19 @@ show_downloads: ["false"]
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
+#theme: tactile
 
 # not able to make this work locally:
-remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: pages-themes/tactile@v0.2.0
 #remote_theme: pages-themes/tactile
 
 plugins:
-  - jekyll-remote-theme 
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag  
+
+#  - jekyll-remote-theme 
+#  - jekyll-sitemap
 
 
 # Exclude from processing.
