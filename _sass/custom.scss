@@ -1,5 +1,5 @@
 .site-title::before {
-	content: url("/images/Aston_logo.png");
+	content: url($baseurl + "/images/Aston_logo.png");
 	display: inline-block;
 	position: relative;
 	width: 220px;
